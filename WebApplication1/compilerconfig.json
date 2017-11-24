@@ -1,0 +1,17 @@
+[
+  {
+    "outputFile": "wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+    "inputFile": "wwwroot/lib/bootstrap/less/bootstrap.less",
+    "minify": { "enabled": true },
+    "includeInProject": true,
+    "options": { "sourceMap": false }
+  }
+  //,
+  //{
+  //  "outputFile": "output/scss.css",
+  //  "inputFile": "input/scss.scss",
+  //  "minify": { "enabled": true },
+  //  "includeInProject": true,
+  //  "options": { "sourceMap": true }
+  //}
+]
